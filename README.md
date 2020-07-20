@@ -2,7 +2,7 @@
 
 I'm a computational modeller specialsied on modelling human behavior.
 
-📫 You can contact me in :uk: or :fr: on:
+📫 You can contact me in English or French on:
 
 - [Twitter:](https://twitter.com/DomJHunt) [@DomJHunt](https://twitter.com/DomJHunt)
 - [mastodon:](https://chaos.social/@djhunt) [@djhunt@chaos.social](https://chaos.social/@djhunt)
