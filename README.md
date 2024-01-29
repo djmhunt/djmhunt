@@ -8,8 +8,6 @@ I'm a computational modeller specialsied on modelling human behavior.
 - [mastodon:](https://chaos.social/@djhunt) [@djhunt@chaos.social](https://chaos.social/@djhunt)
 - [LinkedIn:](https://www.linkedin.com/in/dominic-hunt/) [dominic-hunt](https://www.linkedin.com/in/dominic-hunt/)
 
-[![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=djmhunt)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **djmhunt/djmhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
